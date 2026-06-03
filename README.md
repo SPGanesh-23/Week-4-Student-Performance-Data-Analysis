@@ -99,7 +99,7 @@ The project includes:
 <img width="839" height="544" alt="image" src="https://github.com/user-attachments/assets/5975eef2-5239-4273-b3c4-f10296516567" />
 
 - Scatter plots for relationships
-<img width="769" height="525" alt="image" src="https://github.com/user-attachments/assets/19655024-4c36-4a31-b8bf-a6715a4d952b" />\
+<img width="769" height="525" alt="image" src="https://github.com/user-attachments/assets/19655024-4c36-4a31-b8bf-a6715a4d952b" />
 
 - Box plots for subject comparison
 <img width="765" height="525" alt="image" src="https://github.com/user-attachments/assets/ce12ae83-fad6-4397-9e82-a7dd14b181da" />
