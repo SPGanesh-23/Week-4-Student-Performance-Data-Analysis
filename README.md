@@ -92,11 +92,17 @@ This helps institutions identify:
 ### **4. Visualization**
 The project includes:
 
-- Bar charts for department and gender analysis
 - Pie charts for grade distribution
+<img width="654" height="652" alt="image" src="https://github.com/user-attachments/assets/b64ea822-bac1-4193-b672-aa458305327a" />
+
 - Histograms for marks distribution
+<img width="839" height="544" alt="image" src="https://github.com/user-attachments/assets/5975eef2-5239-4273-b3c4-f10296516567" />
+
 - Scatter plots for relationships
+<img width="769" height="525" alt="image" src="https://github.com/user-attachments/assets/19655024-4c36-4a31-b8bf-a6715a4d952b" />\
+
 - Box plots for subject comparison
+<img width="765" height="525" alt="image" src="https://github.com/user-attachments/assets/ce12ae83-fad6-4397-9e82-a7dd14b181da" />
 
 Visualizations make insights clear and easy to interpret. 
 
